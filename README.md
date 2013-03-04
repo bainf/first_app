@@ -1,0 +1,1 @@
+# This is my first app with Ruby On Rails and using it trough Version Control.
